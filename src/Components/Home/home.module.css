@@ -1,0 +1,59 @@
+.cards {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 50px;
+  margin-top: 50px;
+}
+
+.title {
+  font-family: "Oswald", sans-serif;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+}
+
+.txt {
+  font-family: "Manrope", sans-serif;
+}
+
+.btn {
+  display: flex;
+  justify-content: space-evenly;
+  font-family: "Manrope", sans-serif;
+}
+
+.addForm {
+  font-family: "Manrope", sans-serif;
+  text-align: center;
+  border: 2px solid;
+  border-radius: 20px;
+  width: 20%;
+  margin: 100px auto;
+  padding: 50px;
+}
+
+.add {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 30px;
+  gap: 30px;
+}
+
+.add input {
+  border: 0.8px solid;
+  border-radius: 5px;
+  padding: 2px;
+}
+
+.save {
+  font-family: "Manrope", sans-serif;
+  padding: 5px;
+  width: 70px;
+  color: #fff;
+  border: 0.9px solid rgb(24, 23, 99);
+  border-radius: 10px;
+  background-color: #3331a2;
+}

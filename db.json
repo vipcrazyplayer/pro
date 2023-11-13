@@ -1,0 +1,82 @@
+{
+  "heroes": [
+    {
+      "title": "SLARK",
+      "desc": "Slark способен впрыгнуть в гущу сражения и выйти из него живым. Он всегда рад приковать заблудшего врага к месту, украсть его сущность ударами своего кинжала, а в случае чего мгновенно испариться.",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/slark.png",
+      "id": 1
+    },
+    {
+      "title": "SHADOW FIEND",
+      "desc": "Shadow Fiend становится сильнее с каждой полученной душой убитого им существа. Каждое убийство, каждое точное попадание опустошающими чарами приближает смертоносный удар энергии выпущенных на волю душ.",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/nevermore.png",
+      "id": 2
+    },
+    {
+      "title": "INVOKER",
+      "desc": "Благодаря обширному арсеналу заклинаний Invoker может приспособиться к ходу любой битвы. Комбинируя три магичесих компонента, он может сотворить одно из десяти заклинаний, позволяющих уничтожить врага или спастись от него.",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/invoker.png",
+      "id": 3
+    },
+    {
+      "title": "AXE",
+      "desc": "Axe рубит одного врага за другим, неизменно ступая впереди своей команды. Он вынуждает противников вступить в бой, а затем отвечает на их удары смертоносными взмахами топора. Нещадно круша ослабленных врагов, он всегда несётся вперёд.",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/axe.png",
+      "id": 4
+    },
+    {
+      "title": "PHANTOM ASSASSIN",
+      "desc": "Phantom Assassin идёт в наступление, едва завидев свою жертву. Мгновенно сблизившись с ней, Мортред легко уклоняется от атак и обрушивает на врага удар за ударом, любой из которых может оказаться роковым.",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/phantom_assassin.png",
+      "id": 5
+    },
+    {
+      "title": "TINY",
+      "desc": "Tiny, становящийся больше и сильнее по ходу битвы, устрашает противника. Он швыряет героев и крипов в своих врагов или оглушает их камнепадом. Набрав мощь, он с лёгкостью разрушит вражескую базу.",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/tiny.png",
+      "id": 6
+    },
+    {
+      "title": "MEEPO",
+      "desc": "Призвав до пяти своих полноценных копий, Meepo способен сражаться на всех фронтах одновременно. Он распределяет своих клонов по полю боя и, заметив врага, приковывает его к земле, со взрывом телепортирует к себе остальные копии и добивает истощённую жертву.",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/meepo.png",
+      "id": 7
+    },
+    {
+      "title": "ANTI-MAGE",
+      "desc": "Если Anti-Mage наберёт полную силу, мало кто сможет его остановить. Он способен забирать у врагов ману каждым ударом или телепортироваться на небольшие расстояния, что не позволяет врагам загнать его в угол.",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/antimage.png",
+      "id": 8
+    },
+    {
+      "title": "SPECTRE",
+      "desc": "Spectre преследует своих врагов, где бы они ни были. Открыв себе всё поле боя и выбрав одинокую жертву, она с лёгкостью расправляется с ней. Если она наберёт силу, то никому не удастся спастись от ужасной участи.",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/spectre.png",
+      "id": 9
+    },
+    {
+      "title": "BLOODSEEKER",
+      "desc": "Bloodseeker постоянно ставит противников перед непростым выбором. Окропив кровью обширную территорию, он вынуждает врагов отступать, а под его чудовищным ультом жертва либо стоит на месте, либо погибает.",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/bloodseeker.png",
+      "id": 10
+    },
+    {
+      "title": "EARTHSHAKER",
+      "desc": "Внезапные атаки Earthshaker не дают врагам отступить, разделяют их силы и разрывают под ними землю. Всех, кому удалось выжить, он добивает взмахами своего могучего тотема.",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/earthshaker.png",
+      "id": 11
+    },
+    {
+      "title": "DAWNBREAKER",
+      "desc": "Dawnbreaker проявляет себя в гуще боя, с радостью круша врагов своим небесным молотом и излечивая союзников вокруг. Она охотно швырнёт свой молот в противников, чтобы воссоединиться с ним в пламенном полёте, и всегда готова обратиться к своей истинной космической мощи, чтобы прилететь на помощь союзникам, где бы они ни были, и разгромить неприятеля.",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/dawnbreaker.png",
+      "id": 12
+    },
+    {
+      "title": "ghh",
+      "desc": "hjj",
+      "image": "",
+      "id": 13
+    }
+  ]
+}
