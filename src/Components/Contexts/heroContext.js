@@ -33,6 +33,7 @@ const HeroContextProvider = ({ children }) => {
     await axios.patch(`${API}/${id}`, editedHero);
     getHeroes();
   }
+
   const vals = {
     heroes,
     addHero,

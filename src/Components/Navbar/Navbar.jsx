@@ -4,7 +4,7 @@ import Navbar from "react-bootstrap/Navbar";
 import Form from "react-bootstrap/Form";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
-import style from "./navbar.module.css";
+import Button from "react-bootstrap/Button";
 
 import { NavLink } from "react-router-dom";
 
@@ -12,8 +12,8 @@ function Appbar() {
   return (
     <Navbar expand="lg">
       <Container>
-        <NavLink className={style.bar} to="/">
-          Home
+        <NavLink to="/">
+          <Button variant="outline-dark">Home</Button>
         </NavLink>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
@@ -35,14 +35,14 @@ function Appbar() {
                 />
               </Col>
             </Row>
-            <NavLink className={style.bar} to="/add">
-              Add
+            <NavLink to="/add">
+              <Button variant="outline-dark">Add</Button>
             </NavLink>
-            <NavLink className={style.bar} to="/">
-              Login
+            <NavLink to="/">
+              <Button variant="outline-dark">Login</Button>
             </NavLink>
-            <NavLink className={style.bar} to="/">
-              SignUp
+            <NavLink to="/">
+              <Button variant="outline-dark">SignUp</Button>
             </NavLink>
           </Nav>
         </Navbar.Collapse>

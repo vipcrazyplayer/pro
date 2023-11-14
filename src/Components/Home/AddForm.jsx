@@ -1,5 +1,4 @@
 import React, { useContext, useState } from "react";
-import Button from "react-bootstrap/Button";
 import style from "./home.module.css";
 import { useNavigate } from "react-router-dom";
 import { heroContext } from "../Contexts/heroContext";
